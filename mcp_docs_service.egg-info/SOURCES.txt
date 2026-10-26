@@ -1,0 +1,8 @@
+pyproject.toml
+mcp_docs_service/__init__.py
+mcp_docs_service/server.py
+mcp_docs_service.egg-info/PKG-INFO
+mcp_docs_service.egg-info/SOURCES.txt
+mcp_docs_service.egg-info/dependency_links.txt
+mcp_docs_service.egg-info/requires.txt
+mcp_docs_service.egg-info/top_level.txt
